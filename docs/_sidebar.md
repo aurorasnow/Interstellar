@@ -7,3 +7,4 @@
   - [尝试（第5周）](investment20200202.md)
   - [特殊的一周（第6周）](investment20200209.md)
   - [混沌（第7周）](investment20200216.md)
+  - [投机者的盛宴（第8周）](investment20200223.md)
