@@ -8,3 +8,4 @@
   - [特殊的一周（第6周）](investment/20200209.md)
   - [混沌（第7周）](investment/20200216.md)
   - [投机者的盛宴（第8周）](investment/20200223.md)
+  - [危与机（第9周）](investment/20200301.md)
