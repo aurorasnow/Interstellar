@@ -13,3 +13,4 @@
   - [闭关（第11周）](investment/20200315.md)
   - [自控力（第12周）](investment/20200322.md)
   - [抉择（第13周）](investment/20200329.md)
+  - [初心（第14周）](investment/20200405.md)
