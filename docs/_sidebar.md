@@ -14,3 +14,4 @@
   - [自控力（第12周）](investment/20200322.md)
   - [抉择（第13周）](investment/20200329.md)
   - [初心（第14周）](investment/20200405.md)
+  - [迷雾（第15周）](investment/20200412.md)
