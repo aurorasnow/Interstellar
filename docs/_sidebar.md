@@ -16,3 +16,4 @@
   - [初心（第14周）](investment/20200405.md)
   - [迷雾（第15周）](investment/20200412.md)
   - [梳理（第16周）](investment/20200419.md)
+  - [烦躁（第17周）](investment/20200426.md)
