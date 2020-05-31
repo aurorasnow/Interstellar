@@ -21,3 +21,4 @@
   - [加油（第19周）](investment/20200510.md)
   - [冲（第20周）](investment/20200517.md)
   - [原则（第21周）](investment/20200524.md)
+  - [TES夺冠（第22周）](investment/20200531.md)
