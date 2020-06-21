@@ -24,3 +24,4 @@
   - [TES夺冠（第22周）](investment/20200531.md)
   - [慢慢变富（第23周）](investment/20200607.md)
   - [弱者体系（第24周）](investment/20200614.md)
+  - [新高（第25周）](investment/20200621.md)
