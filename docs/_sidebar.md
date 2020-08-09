@@ -31,3 +31,4 @@
   - [逃顶（第29周）](investment/20200719.md)
   - [追剧（第30周）](investment/20200726.md)
   - [重启（第31周）](investment/20200802.md)
+  - [时间（第32周）](investment/20200809.md)
