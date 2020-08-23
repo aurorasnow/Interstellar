@@ -33,3 +33,4 @@
   - [重启（第31周）](investment/20200802.md)
   - [时间（第32周）](investment/20200809.md)
   - [一往无前（第33周）](investment/20200816.md)
+  - [进步（第34周）](investment/20200823.md)
